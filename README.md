@@ -32,7 +32,7 @@
     <img src="https://github.com/eldinesh/Notes/blob/main/Resources/imgC.png" width="300px" alt="Notes">
   </a>
   <a href="https://github.com/eldinesh/Notes/blob/main/Resources/imgD.png">
-    <img src="https://github.com/eldinesh/Notes/blob/main/Resources/imgC.png" width="300px" alt="Notes">
+    <img src="https://github.com/eldinesh/Notes/blob/main/Resources/imgD.png" width="300px" alt="Notes">
   </a>
 </p>
 
